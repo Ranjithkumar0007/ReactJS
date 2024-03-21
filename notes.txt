@@ -1,0 +1,18 @@
+1. React routers
+2. React Hooks & Custom Hooks
+3. State Management with Redux
+4. Redux Saga
+5. React Localization (i18n)
+6. React Firebase
+7. React Typescript
+8. React GraphQL
+9. Payment Integration
+10. React PWA
+11. Next.js & Remix.js
+
+
+reference video -> https://www.youtube.com/watch?v=cyU_4U1yHl4&list=PL73Obo20O_7g-GCbEU_oxHb0s1Lc9fKwK
+video 1 -> just intro(skip)
+video 2 -> intro about React (skip)
+video 3 -> diff between Angular/React/Vue (skip)
+video 4 -> live example instagram (skip)

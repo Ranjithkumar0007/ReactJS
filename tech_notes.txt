@@ -1,0 +1,19 @@
+1.what isReact JS?
+    A open source Javascript library for building Interactive User-Interface (UI).
+    ReactJS was created by Meta
+    ReactJS is a UI Library(not framework)
+    ReactJS based on components(means reusable code)
+
+2. Why we should learn ReactJS?
+    Easy to use
+    JSX helps to mix HTML & Javascript
+
+3. With React knowledge, we can build:
+    Mobile Apps (React Native)
+    Virtual Reality (React 360)
+    Desktop Apps (Electron.js)
+
+4. Data validations
+    Frontend validations        -> 1. Html validations, 2. Javascript validations
+    Server validations(backend) 
+    Database validations
